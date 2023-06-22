@@ -1,4 +1,5 @@
-# Experiment-2
+# EXPERIMENT 1
+# JAVA PROGRAM TO COMPARE TWO NUMBERS
 # AIM :
 To write a java program to compare two numbers
 # ALGORITHM :
